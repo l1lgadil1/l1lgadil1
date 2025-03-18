@@ -2,11 +2,11 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l1lgadil1&show_icons=true&theme=radical&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l1lgadil1&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l1lgadil1&layout=compact&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l1lgadil1&layout=compact&theme=radical&hide=html&count_private=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=l1lgadil1&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=l1lgadil1&theme=radical&count_private=true)
   
   ## Repository Overview
   
@@ -20,7 +20,11 @@
   
   ## Contribution Activity
   
-  <img alt="l1lgadil1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=l1lgadil1&theme=tokyo-night&hide_border=true" />
+  <img alt="l1lgadil1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=l1lgadil1&theme=tokyo-night&hide_border=true&count_private=true" />
+  
+  <p align="center">
+    <i>Note: These statistics include both public and private contributions. <a href="./PRIVATE_CONTRIBUTIONS.md">Learn how to set up private contributions</a>.</i>
+  </p>
   
 </div>
 
